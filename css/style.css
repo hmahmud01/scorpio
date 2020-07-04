@@ -140,6 +140,10 @@ sub {
 sup {
   top: -.5em; }
 
+  .a-color{
+    color: #000;
+  }
+
 a {
   color: #78d5ef;
   text-decoration: none;
