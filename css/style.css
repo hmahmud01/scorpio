@@ -52,6 +52,10 @@ html {
 @-ms-viewport {
   width: device-width; }
 
+  html {
+    scroll-behavior: smooth;
+  }
+
 article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 
